@@ -38,7 +38,10 @@ Tools & Design Principles Used:
 	•	Principles: Visual hierarchy, contrast, accessibility, responsive design, user-centered design, and consistency.
 
 
+## Output -
 TASK 1 - REDESIGN A WEBSITE LANDING PAGE
+
+<img width="1031" alt="Image" src="https://github.com/user-attachments/assets/6610c89a-0d0d-4825-99d9-ed3945817f2e" />
 
 DESCRIPTION OF TASK 2 - 
 
