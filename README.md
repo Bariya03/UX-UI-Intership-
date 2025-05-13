@@ -76,6 +76,11 @@ Tools and Technologies Used:
 ## Output -
 TASK 2 - RESPONSIVE DESIGN IMPLEMENTATION
 
+<img width="1037" alt="Image" src="https://github.com/user-attachments/assets/6161646c-edd8-471e-8e01-7cce07baa255" />
+
+<img width="1085" alt="Image" src="https://github.com/user-attachments/assets/cbfac949-2832-4121-b6d9-df6efb8d9494" />
+
+<img width="1033" alt="Image" src="https://github.com/user-attachments/assets/31e1c184-124a-4a49-970a-819abf72ef3d" />
 
 DESCRIPTION OF TASK 3 - 
 
