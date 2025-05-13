@@ -45,7 +45,7 @@ TASK 1 - REDESIGN A WEBSITE LANDING PAGE
 
 <img width="1031" alt="Image" src="https://github.com/user-attachments/assets/6610c89a-0d0d-4825-99d9-ed3945817f2e" />
 
-DESCRIPTION OF TASK 2 - 
+## DESCRIPTION OF TASK 2 - 
 Responsive Design Implementation for a Tech Product Landing Page
 
 As part of my internship project focused on UX/UI design, my second task was to implement a responsive design for a technology-based e-commerce website. The goal was to ensure optimal user experience across all major screen sizes, including desktop (wide and standard), tablet, and mobile devices. For this task, I worked on a landing page redesign for Insight, a platform that offers a wide range of IT products and solutions, such as laptops, software, and accessories.
@@ -82,11 +82,47 @@ TASK 2 - RESPONSIVE DESIGN IMPLEMENTATION
 
 <img width="1033" alt="Image" src="https://github.com/user-attachments/assets/31e1c184-124a-4a49-970a-819abf72ef3d" />
 
-DESCRIPTION OF TASK 3 - 
+## DESCRIPTION OF TASK 3 - 
+Redesigning Rapido
 
+
+Pain Points - 1. Lack of User Engagement: The first paramount of an application is the look and feel. In my opinion, the original app is not very accurately designed in terms of UI, as the prominent features aren’t easily accessible and the application lacked minimalism which people are looking for i.e., a simple interface to interact with. The application lacked the finesse to be precise.
+2. Flexibility and efficiency of use: Novice users can easily book a bike in the default manner; however, an experienced user would want to set up preferences by entering a default payment type or save frequently visited places like work or the gym.
+3. Visibility of system status: When users make a booking, the system does not do a good job of informing the users about what is going on:
+— ETA is displayed before the booking has been made, which isn’t precise.
+— When a booking has been confirmed, the OTP isn’t legible because of the placement.
+4. Aesthetics and Visual appeal: The interface violates certain aspects of design, from the misaligned placement of texts to visual aesthetics. The design takes on an outdated look, which could be improved.
+
+Identifying the weaknesses
+· Too many options in Cluttered Menu
+· No option to schedule rides in advance
+· No option to deliver packages
+· Lagging Animations
+· Promos / CTAs (Call to action) densely populated across the entire application
+
+Redesigned App Features (Based on Your Screenshots)
+
+	1.	Minimalistic Interface
+	•	Clean layout with improved typography and alignment.
+	•	Modern design using flat UI and vibrant icons.
+	2.	Improved System Feedback
+	•	Ride searching screen includes visual status.
+	•	Confirmation popups for stopping or canceling ride requests.
+	3.	Quick Access Options
+	•	Preset location buttons like Home, Office, Gym for faster booking.
+	•	Clear “Ride Now”, “Ride Later”, and “Package Delivery” buttons.
+	4.	Simplified Navigation
+	•	Bottom navigation bar for core actions.
+	•	Easy-to-understand icons and clear text labels.
+	5.	Booking Enhancements
+	•	Better “Enter Destination” UX with a searchable list and recent locations.
+	•	Clear ride details and improved visibility of key info (pickup/dropoff).
+
+## Output -
 TASK 3 - MOBILE APP REDESIGN
 
-DESCRIPTION OF TASK 4 - 
+## DESCRIPTION OF TASK 4 - 
 
+## Output -
 TASK 4 - AR/VR INTERFACE DESIGN
 
