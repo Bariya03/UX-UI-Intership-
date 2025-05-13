@@ -121,6 +121,10 @@ Redesigned App Features (Based on Your Screenshots)
 ## Output -
 TASK 3 - MOBILE APP REDESIGN
 
+<img width="691" alt="Image" src="https://github.com/user-attachments/assets/34db0dd2-4a6b-4096-a34d-5030157f4022" />
+
+<img width="680" alt="Image" src="https://github.com/user-attachments/assets/0adfd974-709d-4d0e-81ad-eba878953045" />
+
 ## DESCRIPTION OF TASK 4 - 
 
 ## Output -
