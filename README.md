@@ -154,3 +154,8 @@ This AR/VR interface combines clarity, immersion, and intuitive flow, achieving 
 ## Output -
 TASK 4 - AR/VR INTERFACE DESIGN
 
+<img width="1029" alt="Image" src="https://github.com/user-attachments/assets/7d73a662-6dfd-41e6-b374-f4c66a43c488" />
+
+<img width="1022" alt="Image" src="https://github.com/user-attachments/assets/71a9b92a-8a7c-4cee-aa28-67739623b1d8" />
+
+<img width="1023" alt="Image" src="https://github.com/user-attachments/assets/3816f40b-4c50-43bd-93f4-21c7bc748cbb" />
